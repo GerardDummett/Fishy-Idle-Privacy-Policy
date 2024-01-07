@@ -82,4 +82,46 @@ If you have any questions or concerns about this Cookie Policy, please contact u
 By using our game, you agree to the terms outlined in this Cookie Policy.
 
 
-Terms of Service
+Terms of Service for Fishy Idle
+Effective Date: 2024-01-07
+
+1. Acceptance of Terms
+Welcome to Fishy Idle! By downloading, installing, or using this game, you agree to comply with and be bound by these Terms of Service. If you do not agree with these terms, please do not use the game.
+
+2. Use of the Game
+2.1 License
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the game for your personal, non-commercial use.
+
+2.2 Age Restrictions
+You must be at least 18 years old to use this game. If you are under 18, you may only use the game with the involvement of a parent or guardian.
+
+2.3 User Accounts
+You may be required to create a user account to access certain features of the game. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
+
+3. User Conduct
+While using the game, you agree not to:
+
+Violate any applicable laws or regulations.
+Infringe upon the rights of others.
+Use the game for any illegal or unauthorized purpose.
+Attempt to gain unauthorized access to any part of the game.
+4. Content
+4.1 User-Generated Content
+By using the game, you may submit content. You retain ownership of your content, but you grant us a worldwide, irrevocable, royalty-free license to use, reproduce, modify, adapt, publish, translate, and distribute your content.
+
+4.2 Prohibited Content
+You agree not to submit content that is offensive, harmful, or violates any applicable laws or regulations.
+
+5. Intellectual Property
+The game and its original content, features, and functionality are owned by [Your Company Name] and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+
+6. Termination
+We reserve the right to terminate or suspend your access to the game at our sole discretion, without notice or liability.
+
+7. Changes to Terms
+We may update these Terms of Service from time to time. We will notify you of any changes by posting the new terms on this page.
+
+8. Contact Us
+If you have any questions or concerns about these Terms of Service, please contact us at GerardDummett1@gmail.com
+
+By using our game, you agree to the terms outlined in these Terms of Service.
