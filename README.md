@@ -45,7 +45,41 @@ By using our game, you agree to the terms outlined in this Privacy Policy.
 
 
 
-Cookie Policy
+
+Cookie Policy for Fishy Idle
+Effective Date: 2024-01-07
+
+1. Introduction
+Welcome to Fishy Idle! This Cookie Policy is designed to help you understand how we use cookies and similar technologies in our game.
+
+2. What are Cookies?
+Cookies are small pieces of data stored on your device. They are typically used to remember certain information, such as your preferences or actions within the game.
+
+3. How We Use Cookies
+We use cookies for the following purposes:
+
+3.1 Essential Cookies
+These cookies are necessary for the game to function properly. They enable basic functionalities like navigation and access to secure areas of the game.
+
+3.2 Analytics Cookies
+We use analytics cookies to understand how users interact with our game. This helps us improve the game and enhance user experience.
+
+3.3 Advertising Cookies
+Our game may display third-party advertisements. Advertising cookies are used to personalize these ads based on your interests and to track their performance.
+
+4. Your Choices
+You can manage cookie preferences through your device settings. However, please note that disabling certain cookies may impact the functionality of the game.
+
+5. Third-Party Services
+Our game may use third-party services that employ cookies. These third parties may have their own cookie policies, and we encourage you to review them.
+
+6. Changes to This Cookie Policy
+We may update this Cookie Policy periodically. We will notify you of any changes by posting the new Cookie Policy on this page.
+
+7. Contact Us
+If you have any questions or concerns about this Cookie Policy, please contact us at GerardDummett1@gmail.com
+
+By using our game, you agree to the terms outlined in this Cookie Policy.
 
 
 Terms of Service
